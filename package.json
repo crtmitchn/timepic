@@ -1,0 +1,19 @@
+{
+  "name": "timepic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GNU GPL v3",
+  "dependencies": {
+    "date-format": "^4.0.14",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.22.8",
+    "nexe": "^4.0.0-rc.2",
+    "regedit": "^5.1.2",
+    "win-screen-resolution": "^3.0.2"
+  }
+}
